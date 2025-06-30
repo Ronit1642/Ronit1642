@@ -14,8 +14,8 @@
 
 ### 🌍 Socials
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ronit1642/)
-- 💡 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ronit1642/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ronit-kumar-7a7226193/)
+- 💡 [GeeksforGeeks](https://www.geeksforgeeks.org/user/ronitxhhs/)
 - 🔧 [GitHub](https://github.com/Ronit1642)
 
 ---
@@ -23,8 +23,8 @@
 ### 💻 Coding Profiles
 
 - ⚡ GeeksforGeeks: [ronit1642](https://auth.geeksforgeeks.org/user/ronit1642)
-- ⚡ LeetCode: *(Add your profile if public)*
-- ⚡ CodeChef: *(Add if you use)*
+- ⚡ LeetCode:[ ronit1642](https://leetcode.com/u/RONIT1642/)
+
 
 ---
 
