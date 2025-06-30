@@ -1,58 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ronit Kumar</h1>
-<h3 align="center">Passionate Computer Science Engineer | Developer | Tech Enthusiast</h3>
+<h3 align="center">I’m passionate about Software Development, DSA, Competitive Programming, and building impactful tech solutions.</h3>
 
-- 🎓 Pursuing B.Tech in Computer Science at **VIT Bhopal University**
-- 👨‍💻 Currently an SDE Intern at **NARL–ISRO**
-- 🔭 I’m working on exciting **Java, Python & Front-End Projects**
-- 🌱 I’m currently learning **Cloud, DSA, React, and ML**
-- 💬 Ask me about **Java, Python, Web Dev, DBMS, and Problem Solving**
-- 💡 Always curious to explore new tech and work on impactful solutions
-- 📫 Reach me at **ronit1642@gmail.com**
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at **VIT Bhopal University**
+- 🛰️ **SDE Intern at NARL–ISRO**, working on systems that blend research and real-time applications
+- 💻 Passionate about **DSA**, **Java & Python Projects**, **Web Dev**, and **Cloud Technologies**
+- 🌱 Exploring **AI/ML**, **Backend Systems**, and enhancing my **problem-solving skills**
+- 🛠️ Always keen to build real-world applications that solve meaningful problems
+- 📫 Reach me at: **ronit1642@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+### 🌍 Socials
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ronit1642/)
+- 💡 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ronit1642/)
+- 🔧 [GitHub](https://github.com/Ronit1642)
+
+---
+
+### 💻 Coding Profiles
+
+- ⚡ GeeksforGeeks: [ronit1642](https://auth.geeksforgeeks.org/user/ronit1642)
+- ⚡ LeetCode: *(Add your profile if public)*
+- ⚡ CodeChef: *(Add if you use)*
 
 ---
 
 ### 🚀 Projects
-Here are a few of my featured projects:
 
-- 🏨 [**RK Hotel Management System**](https://github.com/Ronit1642/HMS-rk) - Python-based hotel system to manage customers and automate billing.
-- 🍕 [**PizzaMania**](https://github.com/Ronit1642/Pizza_billGenretor) – Java-based pizza customization and billing app.
-- 🛒 [**ARP Grocery Store App**](https://github.com/Ronit1642/ARP-grocery-app) – A full-stack grocery shopping website.
-- 🔐 **Steganography Android App** – App to hide secret messages in images.
+- 🍕 [**PizzaMania**](https://github.com/Ronit1642/Pizza_billGenretor) – Advanced Java application for pizza order customization and billing
+- 🏨 [**RK Hotel Management System**](https://github.com/Ronit1642/HMS-rk) – Python-based system for hotel services and automated billing
+- 🛒 [**ARP Grocery Store App**](https://github.com/Ronit1642/ARP-grocery-app) – HTML/CSS/JS/PHP-based web app for online grocery shopping
+- 🔐 **Steganography Android App** – Hides secret messages inside images (local storage model)
 
 ---
 
-### 📈 GitHub Stats
+### 💎 Technical Skills
+
+- **Languages:** C, C++, Java, Python, HTML/CSS/JS, PHP, SQL
+- **Domains:** Web Development, DSA, Backend Development, ML (beginner), DBMS
+- **Tools & Platforms:** VS Code, Git, Firebase, Jupyter Notebook, MySQL, Linux
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ronit1642&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit1642&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ronit1642&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit1642&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit1642&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit1642&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### ⚡ Fun Fact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronit1642/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Ronit1642)
-[![GFG](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/ronit1642/practice/)
+I love simplifying complex concepts while teaching, and I believe coding is more about **consistency and logic than just syntax**.
 
----
-
-⭐ *Thanks for visiting my profile! Feel free to drop a message or collaborate on any interesting projects.* 🚀
+⭐ *Thanks for visiting my profile! Let's connect and build something amazing together!* 🚀
