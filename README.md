@@ -22,7 +22,7 @@
 
 ### 💻 Coding Profiles
 
-- ⚡ GeeksforGeeks: [ronit1642](https://auth.geeksforgeeks.org/user/ronit1642)
+- ⚡ GeeksforGeeks: [ronit1642](https://www.geeksforgeeks.org/user/ronitxhhs/)
 - ⚡ LeetCode:[ ronit1642](https://leetcode.com/u/RONIT1642/)
 
 
